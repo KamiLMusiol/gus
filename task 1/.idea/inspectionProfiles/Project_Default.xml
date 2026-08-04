@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="spotipy" />
+          <option value="python-dotenv" />
+          <option value="pandas" />
+          <option value="sqlalchemy" />
+          <option value="psycopg2-binary" />
+          <option value="requests" />
+          <option value="jupyter" />
+          <option value="dbt-postgres" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
